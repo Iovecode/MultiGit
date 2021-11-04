@@ -1,0 +1,2 @@
+# MultiGit
+double local repository
